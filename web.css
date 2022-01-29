@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Belleza&family=Josefin+Sans:wght@200&family=Merriweather:wght@300&family=Open+Sans+Condensed:wght@300;700&family=Oswald&family=Poppins:wght@200&family=Raleway:wght@200;500&family=Roboto&family=Spartan:wght@400;600;700&display=swap');
+
+header {
+    margin-top: -10px;  
+}
+#website_title {
+    color: black;
+    font-size: 50px;
+    margin-left: 30px;
+    padding-top: 10px;
+    margin-top: 5px;
+    font-family: 'Belleza', sans-serif;
+}
+#page_list {
+    list-style: none;
+    float: right;
+    margin-top: -75px;
+    margin-right: 360px;
+}
+.page_list {
+    display: inline;
+}
+.page_title {
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-left: 50px;
+    font-size: 23px;
+    transition: .4s;
+}
+.page_title:hover {
+    color: lightblue;
+}
+#special_btn {
+    color: rgb(20, 92, 92);
+    border: rgb(20, 92, 92) 2px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 75px;
+    font-size: 20px;
+    float: right;
+    font-family: 'Poppins', sans-serif;
+    margin-top: -90px;
+    margin-right: 30px;
+    transition: .3s;
+}
+#special_btn:hover {
+    color: black;
+    border-color: black;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#home_section {
+    background-image: url("OWN..png");
+    width: 1263px;
+    height: 510px;
+    margin-top: -30px;
+}
+#btn {
+    text-align: center;
+}
+#start_btn {
+    font-family: 'Poppins', sans-serif;
+    border: black 1px solid;
+    border-radius: 75px;
+    font-size: 20px;
+    background-color: aliceblue;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 33%;
+    margin-right: -985px;
+    cursor: pointer;
+}
+#start_btn:hover {
+    font-weight: bold;
+}
+
+#home2_section {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
